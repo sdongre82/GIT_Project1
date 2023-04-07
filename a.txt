@@ -1,0 +1,2 @@
+
+i Successfully intialised git in my first repository
